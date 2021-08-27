@@ -1,4 +1,4 @@
-#11. Container With Most Water (Python3) - 1110ms/5.08% 27.5MB/75.20%
+#11. Container With Most Water (Python3) - 740ms/63.36% 27.6MB/56.76%
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         lpointer, rpointer = 0, len(height) - 1
